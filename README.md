@@ -1,2 +1,2 @@
 # Projeto-Pet-Shop
-Utilizando CSS e HTML.
+Utilizando CSS, HTML e JavaScript
